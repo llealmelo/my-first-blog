@@ -1,4 +1,5 @@
-import include
+from django.conf.urls import include, url
+
 
 """mysite URL Configuration
 
