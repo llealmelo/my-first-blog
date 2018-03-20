@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4835045e-573e-4f31-8b61-1bb6fa7ccca7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/blog/static/css/blog.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,17 +29,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post_list.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="post_list.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="126">
+              <caret line="6" column="66" lean-forward="false" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="blog.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
@@ -94,8 +94,8 @@
         <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/blog/templates.py" />
         <option value="$PROJECT_DIR$/blog/views.py" />
-        <option value="$PROJECT_DIR$/blog/templates/blog/post_list.html" />
         <option value="$PROJECT_DIR$/blog/static/css/blog.css" />
+        <option value="$PROJECT_DIR$/blog/templates/blog/post_list.html" />
       </list>
     </option>
   </component>
@@ -319,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521518200304</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="vai seu merda">
+      <created>1521518683239</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1521518683239</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -523,18 +530,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/static/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/templates/blog/post_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="66" lean-forward="false" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
           <folding />
         </state>
       </provider>
